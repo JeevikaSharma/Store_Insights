@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and analysis for the "Vrinda Store" annual sales report for the year 2022. The analysis involves data cleaning, processing, visualization, and deriving insights to help Vrinda Store understand their customers better and strategize for increased sales in 2023.
+This repository contains the analysis for the "Vrinda Store" annual sales report for the year 2022. The analysis involves data cleaning, processing, visualization, and deriving insights to help Vrinda Store understand their customers better and strategize for increased sales in 2023.
 
 ## Objective
 
