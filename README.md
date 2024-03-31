@@ -8,7 +8,7 @@ This repository contains the code and analysis for the "Vrinda Store" annual sal
 
 The primary objective of this analysis is to create an annual sales report for 2022 to aid Vrinda Store in understanding their customers' demographics, purchasing behavior, and preferred sales channels. The insights derived will inform Vrinda Store's strategies to enhance sales in the following year.
 
-## Questions Explored
+## Problems Explored
 
 - Comparison of sales and orders using a single chart
 - Identification of the month with the highest sales and orders
@@ -27,7 +27,7 @@ Based on the analysis conducted, the following insights were derived:
 3. The adult age group (30-49 yrs) contributes the most to sales, comprising around 50% of total purchases.
 4. Amazon, Flipkart, and Myntra channels are the major contributors to sales.
 
-## Final Conclusion
+## Inference
 
 To maximize sales in 2023, Vrinda Store should target women customers aged between 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh. Additionally, focusing on advertising and offering promotions through Amazon, Flipkart, and Myntra channels is recommended.
 
